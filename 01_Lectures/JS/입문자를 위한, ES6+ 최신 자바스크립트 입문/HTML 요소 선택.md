@@ -1,5 +1,5 @@
 
-- `document.getElementById`
+- `document.getElementById` : HTML 문서에서 고유한 ID를 할당
 - `document.getElementsByClassName`
 - `document.getElementsByTagName`
 
