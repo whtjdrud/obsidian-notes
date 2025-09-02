@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "README"
             }
-          },
-          {
-            "id": "e6576bd287e9b7e5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01_Lectures/DOM 완전 정복 Part 1/20250830-HTML만으로는 부족했던 이유.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "20250830-HTML만으로는 부족했던 이유"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "08450defe579d00c",
@@ -198,7 +183,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6576bd287e9b7e5",
+  "active": "c13aadeb7e507fb1",
   "lastOpenFiles": [
     "00_Inbox/Untitled.md",
     "01_Lectures/DOM 완전 정복 Part 1/20250830-HTML만으로는 부족했던 이유.md",
