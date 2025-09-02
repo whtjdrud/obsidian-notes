@@ -17,18 +17,29 @@
     - **Attribute Node**: 태그의 속성(`id`, `class`, `src` 등)
 ## TREE 구조
 ---
-![[Pasted image 20250902220618.png]]
+- 웹 브라우저는 HTML 문서를 해석할 때 **트리 구조**로 변환
+- 이 트리는 **문서 객체 모델(DOM)**로 불리며, 각 요소에 자바스크립트로 접근·제어할 수 있게 만든다.
+```html
+<html>
+  <body>
+    <h1>Hello</h1>
+    <p>World</p>
+  </body>
+</html>
+```
+위 문서는 아래처럼 트리 구조로 표현된다:
 
-이 DOM 요소를 통해 각각 접근하고 제어할 수 있다.
+- **Root:** `document`    
+    - **Child:** `<html>`        
+        - `<body>`            
+            - `<h1>` → `Hello` (텍스트 노드)                
+            - `<p>` → `World` (텍스트 노드)
 
-- **Tree(트리)**는 **계층적(hierarchical) 자료구조**.    
-- **루트(root)**에서 시작해 **노드(node)**들이 연결되고, 각 노드는 **부모(parent)**와 **자식(children)** 관계를 가짐.
 
-##### 용어
-- **Root (루트):** 트리의 최상위 노드 (부모가 없음).    
-- **Parent (부모):** 자식을 가지는 노드.    
-- **Child (자식):** 부모에게 연결된 하위 노드.    
-- **Leaf (리프):** 자식이 없는 말단 노드.
+> **Tree(트리)** 는 **계층적(hierarchical) 자료구조**. 
+> **루트(root)** 에서 시작해 **노드(node)** 들이 연결
+> 각 노드는 **부모(parent)** 와 **자식(children)** 관계를 가짐.
+
 
 ## BOM(Brower Object Model)
 ---
