@@ -183,12 +183,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff065921078a2d40",
+  "active": "c13aadeb7e507fb1",
   "lastOpenFiles": [
+    "TIL Questions/console.log의 참조 출력 동작.md",
+    "01_Lectures/JS/입문자를 위한, ES6+ 최신 자바스크립트 입문/HTML 요소 선택.md",
+    "TIL Questions",
     "Pasted image 20250902223029.png",
     "Pasted image 20250902222849.png",
     "01_Lectures/JS/입문자를 위한, ES6+ 최신 자바스크립트 입문/DOM 이란.md",
-    "01_Lectures/JS/입문자를 위한, ES6+ 최신 자바스크립트 입문/HTML 요소 선택.md",
     "Pasted image 20250902220618.png",
     "02_Daily/20250902.md",
     "01_Lectures/JS/입문자를 위한, ES6+ 최신 자바스크립트 입문",
@@ -206,7 +208,6 @@
     "README.md",
     "00_Inbox",
     "01_Lectures",
-    "Welcome.md",
-    "새 텍스트 문서.txt"
+    "Welcome.md"
   ]
 }
