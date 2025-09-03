@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Lectures/JS/입문자를 위한, ES6+ 최신 자바스크립트 입문/HTML 요소 선택.md",
+                "file": "01_Lectures/CSS/CSS 선택자_기본.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "HTML 요소 선택"
+              "title": "CSS 선택자_기본"
             }
           }
         ]
@@ -183,10 +183,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c13aadeb7e507fb1",
+  "active": "ff065921078a2d40",
   "lastOpenFiles": [
-    "TIL Questions/console.log의 참조 출력 동작.md",
     "01_Lectures/JS/입문자를 위한, ES6+ 최신 자바스크립트 입문/HTML 요소 선택.md",
+    "01_Lectures/CSS/CSS 선택자_기본.md",
+    "01_Lectures/CSS",
+    "TIL Questions/console.log의 참조 출력 동작.md",
     "TIL Questions",
     "Pasted image 20250902223029.png",
     "Pasted image 20250902222849.png",
@@ -207,7 +209,6 @@
     "Pasted image 20250831001422.png",
     "README.md",
     "00_Inbox",
-    "01_Lectures",
     "Welcome.md"
   ]
 }
