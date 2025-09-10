@@ -22,22 +22,6 @@
             }
           }
         ]
-      },
-      {
-        "id": "08450defe579d00c",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "141a59efd641cd79",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -185,6 +169,7 @@
   },
   "active": "ff065921078a2d40",
   "lastOpenFiles": [
+    "Pasted image 20250910234031.png",
     "Pasted image 20250910232624.png",
     "01_Lectures/CSS/선택자_복합.md",
     "01_Lectures/JAVA/ARRAY.md",
