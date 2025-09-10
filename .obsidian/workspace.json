@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Lectures/CSS/선택자_복합.md",
+                "file": "01_Lectures/JAVA/ARRAY.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "선택자_복합"
+              "title": "ARRAY"
             }
           }
         ]
@@ -185,8 +185,11 @@
   },
   "active": "ff065921078a2d40",
   "lastOpenFiles": [
-    "01_Lectures/CSS/CSS 선택자_기본.md",
+    "Pasted image 20250910232624.png",
     "01_Lectures/CSS/선택자_복합.md",
+    "01_Lectures/JAVA/ARRAY.md",
+    "01_Lectures/JAVA",
+    "01_Lectures/CSS/CSS 선택자_기본.md",
     "01_Lectures/JS/입문자를 위한, ES6+ 최신 자바스크립트 입문/HTML 요소 선택.md",
     "01_Lectures/CSS",
     "TIL Questions/console.log의 참조 출력 동작.md",
@@ -209,7 +212,6 @@
     "01_Lectures/DOM 완전 정복 Part 1",
     "Pasted image 20250831001422.png",
     "README.md",
-    "00_Inbox",
     "Welcome.md"
   ]
 }
