@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Lectures/JAVA/ARRAY.md",
+                "file": "01_Lectures/JS/한번에 끝내는 JS/section04-DOM/01. WEB과 DOM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ARRAY"
+              "title": "01. WEB과 DOM"
             }
           }
         ]
@@ -44,7 +44,7 @@
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "파일 탐색기"
             }
           },
           {
@@ -157,22 +157,28 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "bases:Create new base": false,
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "ff065921078a2d40",
   "lastOpenFiles": [
+    "첨부파일_보관소/Pasted image 20250911232730.png",
+    "첨부파일_보관소/Pasted image 20250911232648.png",
+    "첨부파일_보관소",
+    "01_Lectures/JAVA/ARRAY.md",
+    "01_Lectures/JS/한번에 끝내는 JS/section04-DOM/01. WEB과 DOM.md",
+    "01_Lectures/JS/한번에 끝내는 JS/section04-DOM",
+    "01_Lectures/JS/한번에 끝내는 JS",
     "Pasted image 20250910234031.png",
     "Pasted image 20250910232624.png",
     "01_Lectures/CSS/선택자_복합.md",
-    "01_Lectures/JAVA/ARRAY.md",
     "01_Lectures/JAVA",
     "01_Lectures/CSS/CSS 선택자_기본.md",
     "01_Lectures/JS/입문자를 위한, ES6+ 최신 자바스크립트 입문/HTML 요소 선택.md",
@@ -191,10 +197,7 @@
     "01_Lectures/REACT/만들고 비교하며 학습하는 React/JS/MVC 패턴.md",
     "01_Lectures/DOM 완전 정복 Part 1/20250830-HTML만으로는 부족했던 이유.md",
     "01_Lectures/REACT/만들고 비교하며 학습하는 React/JS",
-    "01_Lectures/REACT/만들고 비교하며 학습하는 React",
-    "01_Lectures/REACT",
     "00_Inbox/Untitled.md",
-    "01_Lectures/DOM 완전 정복 Part 1",
     "Pasted image 20250831001422.png",
     "README.md",
     "Welcome.md"
