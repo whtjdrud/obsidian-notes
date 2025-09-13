@@ -63,3 +63,19 @@
 - 브라우저 탭 제목
 - 북마크, 히스토리 저장
 - 문서 정체성을 알려주는 중요한 역할을 한다.
+## 글꼴
+---
+```html
+<!-- Inter font (optimized) -->
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap" rel="stylesheet" />
+
+```
+
+-  `rel="preconnect"`
+	- 브라우저가 **도메인과 미리 연결(handshake)** 해서 나중에 실제 리소스를 가져올 때 네트워크 지연(Latency)을 줄여준다.    
+	- 즉, 폰트 파일을 가져오기 전에 미리 DNS 조회, TLS 연결, TCP 핸드셰이크를 끝내두는 개념.
+- `fonts.gstatic.com`
+	- 실제 **폰트 파일(.woff2 등)** 을 내려주는 CDN.    
+	- `crossorigin`을 붙여야 CORS 정책상 올바르게 캐싱 가능하다.
