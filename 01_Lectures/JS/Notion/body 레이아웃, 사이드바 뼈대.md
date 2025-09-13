@@ -66,18 +66,22 @@
 ## Actions
 ---
 ```html
+<!-- Actions -->
 <div class="nav-items">
-	<div class="item" id="actionSearch">
-		<span> Search </span>
-		<div class="right">
-			<span class="kbd"> </span><span class="kbd">K</span>
-		</div>
-	<div>
-	<div class="item" id="actionSettings">
-		<span> Settings</span>
-	</div>
-	<div class ="item" id="actionCreateRoot">
-		<span> New page</span>
-	</div>
+  <div class="item" id="actionSearch">
+    <span>🔵 Search</span>
+    <div class="right">
+      <span class="kbd">⌘</span><span class="kbd">K</span>
+    </div>
+  </div>
+
+  <div class="item" id="actionSettings">
+    <span>⚙️ Settings</span>
+  </div>
+
+  <div class="item" id="actionCreateRoot">
+    <span>➕ New page</span>
+  </div>
 </div>
+
 ```
