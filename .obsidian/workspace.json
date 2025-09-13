@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Lectures/JS/Notion/body 레이아웃, 사이드바 뼈대.md",
+                "file": "01_Lectures/HTML/폰트 태그.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "body 레이아웃, 사이드바 뼈대"
+              "title": "폰트 태그"
             }
           }
         ]
@@ -169,10 +169,13 @@
   },
   "active": "ff065921078a2d40",
   "lastOpenFiles": [
+    "01_Lectures/JS/Notion/body 레이아웃, 사이드바 뼈대.md",
+    "01_Lectures/HTML/폰트 태그.md",
+    "01_Lectures/HTML",
+    "01_Lectures/무제.md",
     "첨부파일_보관소/Pasted image 20250913205621.png",
     "첨부파일_보관소/Pasted image 20250913205613.png",
     "01_Lectures/JS/Notion/HTML Head.md",
-    "01_Lectures/JS/Notion/body 레이아웃, 사이드바 뼈대.md",
     "01_Lectures/JS/한번에 끝내는 JS/section04-DOM/01. WEB과 DOM.md",
     "01_Lectures/JS/Notion",
     "첨부파일_보관소/Pasted image 20250911233805.png",
@@ -199,11 +202,9 @@
     "01_Lectures/JS/입문자를 위한, ES6+ 최신 자바스크립트 입문",
     "01_Lectures/REACT/만들고 비교하며 학습하는 React/JS/폴더 구조.md",
     "02_Daily",
-    "01_Lectures/JS",
     "01_Lectures/REACT/만들고 비교하며 학습하는 React/JS/MVC 패턴.md",
     "01_Lectures/DOM 완전 정복 Part 1/20250830-HTML만으로는 부족했던 이유.md",
     "00_Inbox/Untitled.md",
-    "Pasted image 20250831001422.png",
     "README.md",
     "Welcome.md"
   ]
