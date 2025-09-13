@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Lectures/JS/한번에 끝내는 JS/section04-DOM/01. WEB과 DOM.md",
+                "file": "01_Lectures/JS/Notion/HTML Head.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01. WEB과 DOM"
+              "title": "HTML Head"
             }
           }
         ]
@@ -169,12 +169,14 @@
   },
   "active": "ff065921078a2d40",
   "lastOpenFiles": [
+    "01_Lectures/JS/한번에 끝내는 JS/section04-DOM/01. WEB과 DOM.md",
+    "01_Lectures/JS/Notion/HTML Head.md",
+    "01_Lectures/JS/Notion",
     "첨부파일_보관소/Pasted image 20250911233805.png",
     "첨부파일_보관소/Pasted image 20250911232730.png",
     "첨부파일_보관소/Pasted image 20250911232648.png",
     "첨부파일_보관소",
     "01_Lectures/JAVA/ARRAY.md",
-    "01_Lectures/JS/한번에 끝내는 JS/section04-DOM/01. WEB과 DOM.md",
     "01_Lectures/JS/한번에 끝내는 JS/section04-DOM",
     "01_Lectures/JS/한번에 끝내는 JS",
     "Pasted image 20250910234031.png",
@@ -197,7 +199,6 @@
     "01_Lectures/JS",
     "01_Lectures/REACT/만들고 비교하며 학습하는 React/JS/MVC 패턴.md",
     "01_Lectures/DOM 완전 정복 Part 1/20250830-HTML만으로는 부족했던 이유.md",
-    "01_Lectures/REACT/만들고 비교하며 학습하는 React/JS",
     "00_Inbox/Untitled.md",
     "Pasted image 20250831001422.png",
     "README.md",
