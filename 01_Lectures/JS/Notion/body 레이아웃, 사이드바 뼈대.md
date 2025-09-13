@@ -44,3 +44,21 @@
 - TITLE > 마우스 오버 시 툴팁(접근성강화 )
 
 ![](Pasted%20image%2020250913205621.png)
+
+
+##  USER-BOX
+---
+- 사용자 정보 박스
+- 아바타, 이름, 이메일 한 덩어리그룹화 
+- 사이드바 상단에 계정 정보 표시
+```html
+<!-- User -->
+<div class="user-box">
+	<div class="avater">/</div>
+	<div class="user-meta">
+		<strong>Guest</strong>
+		<small>guest@example.com</small>
+	</div>
+</div>
+```
+
