@@ -48,9 +48,6 @@
 
 ##  USER-BOX
 ---
-- 사용자 정보 박스
-- 아바타, 이름, 이메일 한 덩어리그룹화 
-- 사이드바 상단에 계정 정보 표시
 ```html
 <!-- User -->
 <div class="user-box">
@@ -61,4 +58,26 @@
 	</div>
 </div>
 ```
+- 사용자 정보 박스
+- 아바타, 이름, 이메일 한 덩어리 그룹화 
+- 사이드바 상단에 계정 정보 표시
 
+
+## Actions
+---
+```html
+<div class="nav-items">
+	<div class="item" id="actionSearch">
+		<span> Search </span>
+		<div class="right">
+			<span class="kbd"> </span><span class="kbd">K</span>
+		</div>
+	<div>
+	<div class="item" id="actionSettings">
+		<span> Settings</span>
+	</div>
+	<div class ="item" id="actionCreateRoot">
+		<span> New page</span>
+	</div>
+</div>
+```
