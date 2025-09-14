@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "b7fe4dbc0d07f264",
@@ -169,13 +170,13 @@
   },
   "active": "ff065921078a2d40",
   "lastOpenFiles": [
+    "01_Lectures/CSS/CSS 선택자_기본.md",
+    "01_Lectures/CSS/FLEX/01 - 배치의 흐름.md",
     "첨부파일_보관소/Pasted image 20250914152027.png",
     "첨부파일_보관소/Pasted image 20250914151142.png",
     "첨부파일_보관소/Pasted image 20250914150925.png",
     "첨부파일_보관소/Pasted image 20250914150851.png",
     "첨부파일_보관소/Pasted image 20250914150510.png",
-    "01_Lectures/CSS/CSS 선택자_기본.md",
-    "01_Lectures/CSS/FLEX/01 - 배치의 흐름.md",
     "01_Lectures/CSS/FLEX",
     "01_Lectures/CSS/선택자_복합.md",
     "01_Lectures/HTML/폰트 태그.md",
@@ -194,7 +195,6 @@
     "01_Lectures/JAVA/ARRAY.md",
     "01_Lectures/JS/한번에 끝내는 JS/section04-DOM",
     "01_Lectures/JS/한번에 끝내는 JS",
-    "Pasted image 20250910234031.png",
     "01_Lectures/JAVA",
     "01_Lectures/JS/입문자를 위한, ES6+ 최신 자바스크립트 입문/HTML 요소 선택.md",
     "01_Lectures/CSS",
