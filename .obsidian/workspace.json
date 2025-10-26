@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_Lectures/starbucks_project/🟦CSS 중앙정렬 – position + margin 방식 정리.md",
+                "file": "01_Lectures/starbucks_project/Position absolute.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "🟦CSS 중앙정렬 – position + margin 방식 정리"
+              "title": "Position absolute"
             }
           }
         ],
@@ -184,8 +184,9 @@
   },
   "active": "871ecd1b456c5963",
   "lastOpenFiles": [
-    "01_Lectures/starbucks_project/첫째.md",
     "01_Lectures/starbucks_project/🟦CSS 중앙정렬 – position + margin 방식 정리.md",
+    "01_Lectures/starbucks_project/Position absolute.md",
+    "01_Lectures/starbucks_project/첫째.md",
     "01_Lectures/starbucks_project",
     "01_Lectures/CSS/FLEX/01 - 배치의 흐름.md",
     "첨부파일_보관소/Pasted image 20250914222333.png",
