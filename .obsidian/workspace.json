@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "첫째"
             }
+          },
+          {
+            "id": "871ecd1b456c5963",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.14"
+              },
+              "icon": "lucide-book-up",
+              "title": "릴리즈 노트 1.9.14"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +180,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ef5d4144eb79aa24",
+  "active": "871ecd1b456c5963",
   "lastOpenFiles": [
     "01_Lectures/starbucks_project/첫째.md",
     "01_Lectures/starbucks_project",
